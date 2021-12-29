@@ -67,7 +67,7 @@
 <img src="images/db5.PNG">
 
 ## Class Diagram
-<img src="images/class diagram.PNG">
+<img src="images/class diagram.jpg">
 
 ## Use Case Diagram
 <img src="images/use case diagram.PNG">
@@ -120,5 +120,5 @@
   <li>Providing course description and its advantages</li>
   <li>User friendly</li>
   <li>Suggesting requirement based courses </li>
-  <li>Goals reminder<li>
+  <li>Goals reminder</li>
 </ul>
