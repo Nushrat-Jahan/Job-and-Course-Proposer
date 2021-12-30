@@ -56,7 +56,7 @@
 <img src="images/er diagram.png" width="800" height="400">
 
 ## Database Table Description
-<div align="center">
+
 ### company
 <img src="images/db1.png" width="400" height="200">
 ### enrolled
@@ -67,7 +67,6 @@
 <img src="images/db4.png" width="400" height="200">
 ### user
 <img src="images/db5.png" width="400" height="200">
-</div>
 
 ## Class Diagram
 <img src="images/class diagram.jpg" width="800" height="400">
