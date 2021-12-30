@@ -28,7 +28,7 @@
   <li>Security</li>
   <li>Feedback system</li>
   <li>Reliability</li>
-  <li>Speed<li>
+  <li>Speed</li>
 </ul>
 
 ## GUI Description
@@ -41,7 +41,7 @@
 <img src="images/confirm entry.png">
 <p>Author of this application can add any courses/ jobs by entering new data with different id for each insertion using interface like this</p>
 <img src="images/profile.PNG">
-<img src="images/manual.PNG">
+<img src="images/manual.png">
 <img src="images/preference.PNG">
 <p>user can select his/her preference</p>
 <img src="images/enrolled courses.PNG">
