@@ -58,15 +58,15 @@
 ## Database Table Description
 
 ### company
-<img src="images/db1.png" width="600" height="300">
+<img src="images/db1.png" width="500" height="250">
 ### enrolled
-<img src="images/db2.png" width="600" height="300">
+<img src="images/db2.png" width="500" height="250">
 ### courses
-<img src="images/db3.png" width="600" height="300">
+<img src="images/db3.png" width="500" height="250">
 ### enrolled
-<img src="images/db4.png" width="600" height="300">
+<img src="images/db4.png" width="500" height="250">
 ### user
-<img src="images/db5.png" width="600" height="300">
+<img src="images/db5.png" width="500" height="250">
 
 ## Class Diagram
 <img src="images/class diagram.jpg" width="800" height="400">
