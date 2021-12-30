@@ -34,50 +34,50 @@
 ## GUI Description
 <p align="center">
 <img src="images/registration.PNG" width="800" height="400">
-<img src="images/login.PNG">
-<img src="images/author op.png">
+<img src="images/login.PNG" width="800" height="400">
+<img src="images/author op.png" width="800" height="400">
 <p>Author’s operating page</p>
-<img src="images/author edit.png">
+<img src="images/author edit.png" width="800" height="400">
 <p>Author can both add or drop any user/ course/job</p>
-<img src="images/confirm entry.png">
+<img src="images/confirm entry.png" width="800" height="400">
 <p>Author of this application can add any courses/ jobs by entering new data with different id for each insertion using interface like this</p>
-<img src="images/profile.PNG">
-<img src="images/mannual.PNG">
-<img src="images/preference.PNG">
+<img src="images/profile.PNG" width="800" height="400">
+<img src="images/mannual.PNG" width="800" height="400">
+<img src="images/preference.PNG" width="800" height="400">
 <p>user can select his/her preference</p>
-<img src="images/enrolled courses.png">
+<img src="images/enrolled courses.png" width="800" height="400">
 <p>All the enrolled courses by a particular user</p>
-<img src="images/course result.PNG">
-<img src="images/job details.png">
-<img src="images/job result.PNG">
+<img src="images/course result.PNG" width="800" height="400">
+<img src="images/job details.png" width="800" height="400">
+<img src="images/job result.PNG" width="800" height="400">
 <p>All jobs available result from database  Details about Job     </p>
 </p>
 ## Er Diagram
-<img src="images/er diagram.png">
+<img src="images/er diagram.png" width="800" height="400">
 
 ## Database Table Description
 ### company
-<img src="images/db1.png">
+<img src="images/db1.png" width="800" height="400">
 ### enrolled
-<img src="images/db2.png">
+<img src="images/db2.png" width="800" height="400">
 ### courses
-<img src="images/db3.png">
+<img src="images/db3.png" width="800" height="400">
 ### enrolled
-<img src="images/db4.png">
+<img src="images/db4.png" width="800" height="400">
 ### user
-<img src="images/db5.png">
+<img src="images/db5.png" width="800" height="400">
 
 ## Class Diagram
-<img src="images/class diagram.jpg">
+<img src="images/class diagram.jpg" width="800" height="400">
 
 ## Use Case Diagram
-<img src="images/use case diagram.png">
+<img src="images/use case diagram.png" width="800" height="400">
 
 ## System Architecture
-<img src="images/system architecture.png">
+<img src="images/system architecture.png" width="800" height="400">
 
 ## Statechart Diagram
-<img src="images/statechart diagram.png">
+<img src="images/statechart diagram.png" width="800" height="400">
 
 ## Tool Used
 <p>To develop this project we have used the following</p>
