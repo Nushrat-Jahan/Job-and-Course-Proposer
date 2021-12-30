@@ -32,7 +32,7 @@
 </ul>
 
 ## GUI Description
-<p align="center">
+<div align="center">
 <img src="images/registration.PNG" width="800" height="400">
 <img src="images/login.PNG" width="800" height="400">
 <img src="images/author op.png" width="800" height="400">
@@ -51,21 +51,23 @@
 <img src="images/job details.png" width="800" height="400">
 <img src="images/job result.PNG" width="800" height="400">
 <p>All jobs available result from database  Details about Job     </p>
-</p>
+</div>
 ## Er Diagram
 <img src="images/er diagram.png" width="800" height="400">
 
 ## Database Table Description
+<div align="center">
 ### company
-<img src="images/db1.png" width="800" height="400">
+<img src="images/db1.png" width="400" height="200">
 ### enrolled
-<img src="images/db2.png" width="800" height="400">
+<img src="images/db2.png" width="400" height="200">
 ### courses
-<img src="images/db3.png" width="800" height="400">
+<img src="images/db3.png" width="400" height="200">
 ### enrolled
-<img src="images/db4.png" width="800" height="400">
+<img src="images/db4.png" width="400" height="200">
 ### user
-<img src="images/db5.png" width="800" height="400">
+<img src="images/db5.png" width="400" height="200">
+</div>
 
 ## Class Diagram
 <img src="images/class diagram.jpg" width="800" height="400">
