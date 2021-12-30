@@ -32,7 +32,7 @@
 </ul>
 
 ## GUI Description
-<img src="images/registration.PNG">
+<img src="images/registration.PNG" width="400" height="200" align="center">
 <img src="images/login.PNG">
 <img src="images/author op.png">
 <p>Author’s operating page</p>
