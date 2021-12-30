@@ -40,8 +40,8 @@
 <p>Author can both add or drop any user/ course/job</p>
 <img src="images/confirm entry.png">
 <p>Author of this application can add any courses/ jobs by entering new data with different id for each insertion using interface like this</p>
-<img src="images/profile.PNG">
-<img src="images/manual.png">
+<img src="images/profile.png">
+<img src="images/manual.PNG">
 <img src="images/preference.PNG">
 <p>user can select his/her preference</p>
 <img src="images/enrolled courses.PNG">
@@ -52,31 +52,31 @@
 <p>All jobs available result from database  Details about Job     </p>
 
 ## Er Diagram
-<img src="images/er diagram.PNG">
+<img src="images/er diagram.png">
 
 ## Database Table Description
 ### company
-<img src="images/db1.PNG">
+<img src="images/db1.png">
 ### enrolled
-<img src="images/db2.PNG">
+<img src="images/db2.png">
 ### courses
-<img src="images/db3.PNG">
+<img src="images/db3.png">
 ### enrolled
-<img src="images/db4.PNG">
+<img src="images/db4.png">
 ### user
-<img src="images/db5.PNG">
+<img src="images/db5.png">
 
 ## Class Diagram
 <img src="images/class diagram.jpg">
 
 ## Use Case Diagram
-<img src="images/use case diagram.PNG">
+<img src="images/use case diagram.png">
 
 ## System Architecture
-<img src="images/system diagram.PNG">
+<img src="images/system diagram.png">
 
 ## Statechart Diagram
-<img src="images/statechart diagram.PNG">
+<img src="images/statechart diagram.png">
 
 ## Tool Used
 <p>To develop this project we have used the following</p>
