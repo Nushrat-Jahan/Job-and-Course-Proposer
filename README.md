@@ -34,11 +34,11 @@
 ## GUI Description
 <img src="images/registration.PNG">
 <img src="images/login.PNG">
-<img src="images/author op.PNG">
+<img src="images/author op.png">
 <p>Author’s operating page</p>
-<img src="images/author edit.PNG">
+<img src="images/author edit.png">
 <p>Author can both add or drop any user/ course/job</p>
-<img src="images/confirm entry.PNG">
+<img src="images/confirm entry.png">
 <p>Author of this application can add any courses/ jobs by entering new data with different id for each insertion using interface like this</p>
 <img src="images/profile.PNG">
 <img src="images/manual.PNG">
