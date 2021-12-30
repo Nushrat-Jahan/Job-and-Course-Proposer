@@ -32,7 +32,8 @@
 </ul>
 
 ## GUI Description
-<img src="images/registration.PNG" width="400" height="200" align="center">
+<p align="center">
+<img src="images/registration.PNG" width="800" height="400">
 <img src="images/login.PNG">
 <img src="images/author op.png">
 <p>Author’s operating page</p>
@@ -50,7 +51,7 @@
 <img src="images/job details.png">
 <img src="images/job result.PNG">
 <p>All jobs available result from database  Details about Job     </p>
-
+</p>
 ## Er Diagram
 <img src="images/er diagram.png">
 
