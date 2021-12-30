@@ -40,14 +40,14 @@
 <p>Author can both add or drop any user/ course/job</p>
 <img src="images/confirm entry.png">
 <p>Author of this application can add any courses/ jobs by entering new data with different id for each insertion using interface like this</p>
-<img src="images/profile.png">
-<img src="images/manual.PNG">
+<img src="images/profile.PNG">
+<img src="images/mannual.PNG">
 <img src="images/preference.PNG">
 <p>user can select his/her preference</p>
-<img src="images/enrolled courses.PNG">
+<img src="images/enrolled courses.png">
 <p>All the enrolled courses by a particular user</p>
 <img src="images/course result.PNG">
-<img src="images/job details.PNG">
+<img src="images/job details.png">
 <img src="images/job result.PNG">
 <p>All jobs available result from database  Details about Job     </p>
 
@@ -73,7 +73,7 @@
 <img src="images/use case diagram.png">
 
 ## System Architecture
-<img src="images/system diagram.png">
+<img src="images/system architecture.png">
 
 ## Statechart Diagram
 <img src="images/statechart diagram.png">
